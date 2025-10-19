@@ -434,7 +434,7 @@ AI/ML Developer I at The Home Spot : 02/2017 – 06/2020
 •	Integrated symbolic reasoning rules into replenishment workflows, combining deterministic business constraints with ML predictions for explainable decision-making.
 •	Automated CI/CD pipelines for AI workloads with Jenkins + GitLab CI, enabling daily retraining and deployment of high-volume predictive models.
 
-AI Focus Web Developer at Softcom : 11/2015 – 02/2017
+AI Focus Web Developer at Amazon : 11/2015 – 02/2017
 •	Built a collaborative learning agent in Python and Node.js using reinforcement learning to adapt quizzes dynamically to student performance.
 •	Implemented a graph-based content recommendation engine with Neo4j, modeling relationships between concepts, student progress, and instructor materials.
 •	Developed a real-time classroom orchestration system using WebSockets + LangChain to manage student/teacher multi-agent interactions.
